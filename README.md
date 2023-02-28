@@ -20,5 +20,6 @@ Popular technologies and design aspects:
     https://www.youtube.com/watch?v=16fgzklcF7Y -> Istio & Service Mesh
     https://www.youtube.com/watch?v=rv4LlmLmVWk -> Microservices explained - the What, Why and How 
 
+Netflix system design
 
-https://dev.to/gbengelebs/netflix-system-design-backend-architecture-10i3
+    https://dev.to/gbengelebs/netflix-system-design-backend-architecture-10i3
